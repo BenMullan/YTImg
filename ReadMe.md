@@ -4,7 +4,7 @@ Intercepts YouTube's thumbnail-loading requests, and replaces the real thumbnail
 - [ServerSide] A real-time image captured from the Webcam, or
 - [ClientSide] Modified versions of the actual thumbnails, with rotation, saturation, or shift effects applied.
 
-<br/><img src="https://github.com/BenMullan/YTImg/blob/master/_Resources/StaticImage_Demo.png?raw=true" height="80%" width="80%" /><br/>
+<br/><img src="https://github.com/BenMullan/YTImg/blob/main/_Resources/StaticImage_Demo.png?raw=true" height="80%" width="80%" /><br/>
 
 ### Setup Instructions (Server-side Version)
 1. Install IIS: Run `OptionalFeatures.exe`, and (if you don't really know what you're doing) just tick all components under "Internet Information Services" and click [OK].
